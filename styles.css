@@ -1,0 +1,21 @@
+h2{text-align: center}
+
+p {
+    text-align: center;
+}
+#jacob{
+    width: 250px;
+    position: relative;
+    display: block;
+    padding: 1.7em 0.5em 2.0em 1.7em;
+}
+
+.profilePicture{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
