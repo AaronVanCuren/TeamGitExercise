@@ -1,0 +1,28 @@
+.aaron-header{
+    text-decoration: underline;
+    letter-spacing: 5px;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.aaron-content{
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+.aaron-content-pfp{
+    border-radius: 50%;
+    max-width: 25%;
+    margin: 10px;
+
+}
+
+.aaron-content-description{
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    display: block;
+    border: 1px solid black;
+}
