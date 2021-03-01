@@ -12,3 +12,54 @@ div#david.img {
 #david.about {
 
 }
+
+.aaron-header{
+    text-decoration: underline;
+    letter-spacing: 5px;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.aaron-content{
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+.aaron-content-pfp{
+    border-radius: 50%;
+    max-width: 25%;
+    margin: 10px;
+
+}
+
+.aaron-content-description{
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    display: block;
+    border: 1px solid black;
+}
+
+h2{text-align: center}
+
+p {
+    text-align: center;
+}
+#jacob{
+    width: 250px;
+    position: relative;
+    display: block;
+    padding: 1.7em 0.5em 2.0em 1.7em;
+}
+
+.profilePicture{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
